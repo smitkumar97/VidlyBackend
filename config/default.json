@@ -1,6 +1,7 @@
 {
   "jwtPrivateKey": "unsecureKey",
-  "db": "mongodb+srv://vidlyuser:Vidly_123456@cluster0.fv2eu.mongodb.net/Cluster0",
+  "db": "mongodb+srv://vidlyuser:ps612@mongodbs@reactapp.fv2eu.mongodb.net/ReactappS?retryWrites=true&w=majority",
   "port": "3900",
   "requiresAuth": true
 }
+// mongodb+srv://vidlyuser:ps612@mongodbs@reactapp.fv2eu.mongodb.net/ReactApp?retryWrites=true&w=majority
