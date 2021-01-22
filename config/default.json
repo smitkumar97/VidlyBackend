@@ -4,4 +4,3 @@
   "port": "3900",
   "requiresAuth": true
 }
-// mongodb+srv://vidlyuser:ps612@mongodbs@reactapp.fv2eu.mongodb.net/Reactapp?retryWrites=true&w=majority 
