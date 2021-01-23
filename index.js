@@ -3,6 +3,9 @@ const express = require("express");
 const config = require("config");
 const app = express();
 
+app.get("/", (req, res) => {
+  res.json({ message: "hello" });
+});
 require("./startup/logging")();
 require("./startup/cors")(app);
 require("./startup/routes")(app);
